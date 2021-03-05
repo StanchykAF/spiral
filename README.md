@@ -3,9 +3,9 @@
 Given a skeleton of [`Spiral`](src/main/java/com/epam/rd/autotasks/Spiral.java) class, implement its static method:
 
 * `int[][] spiral(int rows, int columns)`\
-  Return a two-dimensional array representing a table with sizes of the given parameters containing numbers from `1` up to `rows * cols`.\
-  Numbers fills the "table" from the top level corner in a spiral manner, clockwise.\
-  E.g, for parameter values `(3, 4)` the output array should be:
+  Return a two-dimensional array coming in the form of a table and containing numbers from `1` up to `rows * cols`. The size of the table will be specified by the given parameters.\
+  Numbers fill the "table" clockwise from the top-level corner in a spiral manner.\
+  For example, for parameter values `(3, 4)`, the output array should be:
     ```
      1  2  3  4
     10 11 12  5
