@@ -1,6 +1,12 @@
 # Spiral
 
-Given a skeleton of [`Spiral`](src/main/java/com/epam/rd/autotasks/Spiral.java) class, implement its static method:
+The purpose of this exercise is to train you to work with arrays.
+
+Estimated workload of this exercise is _45 min_.
+
+### Description
+Please, proceed to [`Spiral`](src/main/java/com/epam/rd/autotasks/Spiral.java)
+class and implement its static method:
 
 * `int[][] spiral(int rows, int columns)`\
   Return a two-dimensional array coming in the form of a table and containing numbers from `1` up to `rows * cols`. The size of the table will be specified by the given parameters.\
@@ -12,10 +18,7 @@ Given a skeleton of [`Spiral`](src/main/java/com/epam/rd/autotasks/Spiral.java) 
      9  8  7  6
     ```
 
-## Examples
-
-You may use [Main](src/test/java/com/epam/rd/autotasks/Main.java) class to try your code.
-There are some examples below.
+### Examples
 
 ---
 Code Sample:
